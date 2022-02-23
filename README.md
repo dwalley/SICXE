@@ -1,2 +1,2 @@
 # SICXE
-Vintage microcomputer emulator
+Microcontroller emulator
